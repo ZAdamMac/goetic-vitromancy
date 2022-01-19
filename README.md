@@ -23,3 +23,21 @@ Comes the Magician:
   This is my design.
 Exit omnis
 ```
+
+In python that might instead be written:
+```python
+
+# The import block is not needed because print is a builtin.
+
+class Greeter(object):
+  def __init__(self):
+      self.Message = "Hello World";
+  def Sending(self):
+      print(self.Message)
+
+if __name__ == ('__main__'):
+  SampleGreeter = Greeter()
+  Sample.Greeter.Sending()
+  codeExit = 0
+
+exit(codeExit)
