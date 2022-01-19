@@ -38,7 +38,7 @@ class Greeter(object):
 
 if __name__ == ('__main__'):
   SampleGreeter = Greeter()
-  Sample.Greeter.Sending()
+  SampleGreeter.Sending()
   codeExit = 0
 
 exit(codeExit)
