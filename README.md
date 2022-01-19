@@ -1,5 +1,5 @@
 # Geotic Vitromancy
-Goetic Vitromancy is a proposed High Level programming language incorporating pythonic and C-like elements in a high-fructose syntax. The language is heavily thematic, and object oriented.
+Goetic Vitromancy is a proposed High Level programming language incorporating pythonic and C-like elements in a high-fructose syntax. The language is heavily thematic, typed, and object oriented. It's intended to provide both an interpreter and a compiler for this language; the latter, principly, to interact with the MSP430 assembly language.
 
 The following pseudocode gives you a hint what you're in for:
 
