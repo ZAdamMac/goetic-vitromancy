@@ -6,6 +6,7 @@ The following pseudocode gives you a hint what you're in for:
 ```
 This Grimoire contains
   The Messenger of the classic, Ars Terminal
+And its own findings.
   
 I create as I speak:
   Conjure Greeter ex nihilo
